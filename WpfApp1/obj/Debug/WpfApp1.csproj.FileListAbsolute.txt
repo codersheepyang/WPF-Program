@@ -17,3 +17,23 @@ E:\C#Project\WPF App\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.c
 E:\C#Project\WPF App\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 E:\C#Project\WPF App\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 E:\C#Project\WPF App\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\bin\Debug\WpfApp1.exe
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\ExpenseItHome.g.cs
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\ExpenseReportPage.g.cs
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\App.g.cs
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\ExpenseItHome.baml
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\ExpenseReportPage.baml
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\MainWindow.baml
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1.exe
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\App.baml
