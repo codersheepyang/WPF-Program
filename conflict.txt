@@ -1,1 +1,1 @@
-this is a conflict in master
+this a conflict in conflict.txt
