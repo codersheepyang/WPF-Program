@@ -1,2 +1,1 @@
-this is a conflict in Conflict branch
-Conflict Branchhh
+this is a conflict in confliiict branch
