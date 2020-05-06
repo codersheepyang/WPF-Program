@@ -1,1 +1,1 @@
-this is a conflict in Conflict branch
+this is a conflict in Master branch
