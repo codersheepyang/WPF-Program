@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\CSharpProject\WPF\WPF-Program\WpfApp1\obj\Debug\
+E:\C#Project\WPF App\WPF-Program\WpfApp1\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-F:\CSharpProject\WPF\WPF-Program\WpfApp1\App.xaml
+E:\C#Project\WPF App\WPF-Program\WpfApp1\App.xaml
 3-30303674
 
-7-981123869
+11-571631261
 13-1505183044
 ExpenseItHome.xaml;ExpenseReportPage.xaml;MainWindow.xaml;
 
-False
+True
 

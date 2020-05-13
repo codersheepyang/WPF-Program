@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{057D7F9D-F5EE-4674-B37A-EB9A70AD4E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderExplorer", "FolderExplorer\FolderExplorer.csproj", "{8A9FCC30-D804-47D8-8CC7-1F6292A3D267}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{057D7F9D-F5EE-4674-B37A-EB9A70AD4E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{057D7F9D-F5EE-4674-B37A-EB9A70AD4E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{057D7F9D-F5EE-4674-B37A-EB9A70AD4E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9FCC30-D804-47D8-8CC7-1F6292A3D267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9FCC30-D804-47D8-8CC7-1F6292A3D267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9FCC30-D804-47D8-8CC7-1F6292A3D267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9FCC30-D804-47D8-8CC7-1F6292A3D267}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

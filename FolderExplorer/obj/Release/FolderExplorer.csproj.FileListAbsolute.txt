@@ -1,0 +1,15 @@
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\bin\Release\FolderExplorer.exe.config
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\bin\Release\FolderExplorer.exe
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\bin\Release\FolderExplorer.pdb
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\MainWindow.g.cs
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\App.g.cs
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer_MarkupCompile.cache
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer_MarkupCompile.lref
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\MainWindow.baml
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer.g.resources
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer.Properties.Resources.resources
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer.csproj.GenerateResource.cache
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer.csproj.CoreCompileInputs.cache
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer.exe
+E:\C#Project\WPF App\WPF-Program\FolderExplorer\obj\Release\FolderExplorer.pdb

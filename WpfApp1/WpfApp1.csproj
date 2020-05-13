@@ -56,14 +56,10 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Page Include="ExpenseItHome.xaml">
-      <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="ExpenseReportPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -76,10 +72,6 @@
     </Compile>
     <Compile Include="ExpenseReportPage.xaml.cs">
       <DependentUpon>ExpenseReportPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
-      <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -109,16 +101,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="A.jpg" />
+    <Resource Include="Icons\A.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="B.jpg" />
+    <Resource Include="Icons\B.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="C.jpg" />
+    <Resource Include="Icons\C.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="D.png" />
+    <Resource Include="Icons\D.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
